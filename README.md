@@ -1,5 +1,5 @@
 # MyMailMerge
-This is simple mail merge to send the email regarding student scores. This is to avoid PDPA issue, the student will know his/her score only.
+This is a simple mail merge solution to send an email regarding student scores. This is to avoid PDPA issue, the student will know his/her score only.
 
 ### Prerequisites
 
