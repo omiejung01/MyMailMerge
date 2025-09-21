@@ -1,6 +1,6 @@
 function myFunction() {
   //Logger.log('Hello World4');
-  readSheetRowByRow("ITX3004", "Midterm and Quiz score ITX3004 1/2025");
+  readSheetRowByRow("ITX3333", "Midterm and Quiz score ITX3333 1/2025");
 }
 
 function sendMyEmail(recipient, subject, body) {
